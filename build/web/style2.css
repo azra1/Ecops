@@ -1,0 +1,76 @@
+            #admininner
+            {
+                height:auto;
+                width:100%;
+                margin:auto;
+                background-color:whiteSmoke;
+            }
+            #admintop
+            {
+                height:10%;
+                width:100%;
+                background-color:#140030;
+                color:white;
+                
+            }
+            #adminhead
+            {
+                background-color:black;
+                height:5%;
+                width:100%;
+                color:white;
+                padding-top:0.3%;
+            }
+            #adminmid
+            {
+                height:auto;
+                width:100%;
+                
+                
+                
+            }
+            #adminmid1{
+                height:auto;
+                width:40%;
+                background-color:white;
+                border-radius:30%;
+                margin:auto;
+                border:2px SOLID #140030;
+                padding:5%;
+            }
+            .left
+            {
+                height:auto;
+                width:20%;
+                background-color:#140090;
+                float:left;
+            }
+            ul{
+               list-style-type: none;
+               margin: 0;
+               padding: 0;
+               width:100%;
+               background-color:grey;  
+            }
+            li a {
+            display: block;
+            color:black;
+            padding: 8% 0% 8% 16%;
+            text-decoration: none;
+            }
+li a:hover {
+        background-color:#140030;
+        color: white;
+}/* show complaint */
+#t2{
+    color:black;
+}
+/*addcriminal*/
+#addcrime1{
+    height:auto;
+    width:30%;
+  /*  border:2px SOLID #140090;*/
+    border-radius:10%;
+    padding:3%;
+    color:#140090;
+}
